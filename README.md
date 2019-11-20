@@ -3,4 +3,5 @@ Weekly
 
 run like this
 
-php /your_path/weekly/console.php MainClass weeklyProvide
+`cd /your_path/weekly`
+`php console.php MainClass weeklyProvide`
