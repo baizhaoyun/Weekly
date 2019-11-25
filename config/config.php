@@ -1,11 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User : baizhaoyun
- * Email: baizhaoyun@rong360.com
- * Date : 2019/11/13
- * Time : 16:44
- */
+
 namespace Awesome\Config;
 
 class MainConfig
