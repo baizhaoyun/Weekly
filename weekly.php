@@ -206,7 +206,7 @@ EOT;
             ],
             'query' => 'jql='.$jql,
         ]);
-
+        //work has stopped, nothing to do, just test branch
         return (string)$response->getBody();
     }
 }
