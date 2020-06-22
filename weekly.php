@@ -207,7 +207,7 @@ EOT;
             'query' => 'jql='.$jql,
         ]);
         //work has stopped, nothing to do, just test branch
-	//another test
+	// add feature1
 	return (string)$response->getBody();
     }
 }
